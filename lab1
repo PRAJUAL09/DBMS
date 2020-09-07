@@ -1,1 +1,6 @@
 
+create table test3(usn integer primary key,name varchar(20),phonenumber integer,branch varchar(20));
+insert into test3 values(20,'prajual',123445,'cs');
+insert into test3 values(21,'bob',15755,'is');
+insert into test3 values(22,'tej',123895,'ae');
+insert into test3 values(23,'roman',120045,'me');
